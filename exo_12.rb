@@ -1,4 +1,3 @@
-howdy= puts "Salut ça farte ?"
 puts "Donne-moi un nombre :)"
 print ">"
 number = gets.chomp
